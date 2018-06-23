@@ -9,4 +9,7 @@ const router = express.Router();
 router.use('/', require('./sign'));
 
 
+// Product Recommendation
+router.use('/rec', require('./recommend'));
+
 module.exports = router;

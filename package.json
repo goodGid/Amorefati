@@ -9,6 +9,7 @@
     "async": "^2.6.0",
     "body-parser": "~1.18.2",
     "cheerio": "^1.0.0-rc.2",
+    "color": "^3.0.0",
     "cookie-parser": "~1.4.3",
     "crypto-async": "^2.0.0",
     "crypto-promise": "^2.0.0",

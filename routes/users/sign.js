@@ -166,7 +166,8 @@ router.post('/signup', async(req, res) => {
     let age = req.body.age;
     let skin_type = req.body.skin_type;
  
-    let person_color = getRandomInt();
+    // let person_color = getRandomInt();
+    let person_color = req.body.person_color;
 
     let selectID = 
     `

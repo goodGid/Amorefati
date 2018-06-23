@@ -144,6 +144,11 @@ router.post('/signin', async(req, res, next) => {
 
         let result_2 = await db.query(selectQuery,[result[0].person_color]); 
 
+        for(var i=0; i<result_2.length; i++){
+            result_2[i].image_path = "https://www.maccosmetics.co.kr" + result_2[i].image_path;
+            console.log('image_path : ' + result_2[i].image_path);
+        }
+
         res.status(200).send({
             state : "Login Success",
             data : result_2

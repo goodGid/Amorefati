@@ -137,7 +137,7 @@ router.post('/signin', async(req, res, next) => {
 
         selectQuery = 
         `
-        SELECT lps.price, lp.*
+        SELECT lps.price, lps.name as product_name, lps.name, lp.*
         FROM libs_products as lps, libs_product as lp
         WHERE lp.id = lps.idx and lp.person_color = ?;
         `;

@@ -10,37 +10,26 @@
 
 ## Home 
 
-{% capture images %}
-    /public_resource/home_1.png
-    /public_resource/home_2.png
-{% endcapture %}
-{% include gallery images=images caption=" " cols=2 %}
+<img align="center" src="https://github.com/goodGid/Amorefati/tree/master/public_resource/home_1.png" />
+<img align="center" src="https://github.com/goodGid/Amorefati/tree/master/public_resource/home_2.png" />
+
+
 
 
 ## Login
 
-{% capture images %}
-    /public_resource/login.png
-{% endcapture %}
-{% include gallery images=images caption=" " cols=1 %}
+<img align="center" src="https://github.com/goodGid/Amorefati/tree/master/public_resource/login.png" />
 
 
 ## Sign Up 
 
-{% capture images %}
-    /public_resource/signup_1.png
-    /public_resource/signup_2.png
-{% endcapture %}
-{% include gallery images=images caption=" " cols=2 %}
-
-
-
+<img align="center" src="https://github.com/goodGid/Amorefati/tree/master/public_resource/signup_1.png" />
+<img align="center" src="https://github.com/goodGid/Amorefati/tree/master/public_resource/signup_1.png" />
 
 
 ## Check Skin Type
 
-{% capture images %}
-    /public_resource/check_skin_type_1.png
-    /public_resource/check_skin_type_2.png
-{% endcapture %}
-{% include gallery images=images caption=" " cols=2 %}
+
+
+<img align="center" src="https://github.com/goodGid/Amorefati/tree/master/public_resource/check_skin_type_1.png" />
+<img align="center" src="https://github.com/goodGid/Amorefati/tree/master/public_resource/check_skin_type_2.png" />

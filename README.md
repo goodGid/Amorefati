@@ -11,8 +11,8 @@
 
 ## Home 
 
-<img align="center" width="200" src="https://github.com/goodGid/Amorefati/blob/master/public_resource/home_1.png" />
-<img align="center" width="200" src="https://github.com/goodGid/Amorefati/blob/master/public_resource/home_2.png" />
+<img width="200" src="https://github.com/goodGid/Amorefati/blob/master/public_resource/home_1.png" />
+<img width="200" src="https://github.com/goodGid/Amorefati/blob/master/public_resource/home_2.png" />
 
 
 

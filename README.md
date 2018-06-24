@@ -7,7 +7,7 @@
     - MAC 홈페이지 립스틱 제품들 `Crawling` 작업 수행
     - 서버 구축 및 배포
     
-* [A MORE BEAUTY X 핵캠](http://www.jccei.kr/event/all.htm?act=view&seq=226) 공식 사이트
+* [A MORE BEAUTY X 핵캠 공식 사이트](http://www.jccei.kr/event/all.htm?act=view&seq=226) 
 
 * [Time Table & Info.](https://goodgid.github.io/Jeju-Hackathon/)
 

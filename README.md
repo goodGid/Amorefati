@@ -2,9 +2,17 @@
 
 * Develop Period : 2018. 06. 22 ~ 06. 24
 
-* Role : BackEnd
+* 제주도에서 2박3일 해커톤 대회 !
+
+* Member 
+    - 1명 Plan & Design
+    - 2명 iOS Develop
+    - 1명 Back-End Develop
+
+* Role : Back-End Develop
     - Node & Express Framework
     - MAC 홈페이지 립스틱 제품들 `Crawling` 작업 수행
+        - `cheerio` 모듈을 사용한 Crawling을 진행
     - 서버 구축 및 배포
     
 * [A MORE BEAUTY X 핵캠 공식 사이트](http://www.jccei.kr/event/all.htm?act=view&seq=226) 

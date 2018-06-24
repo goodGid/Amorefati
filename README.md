@@ -8,6 +8,9 @@
 
 ---
 
+<img align="center" src="https://github.com/CommanTeam/Server/blob/master/public/images/EC2_Environment.png" />
+
+
 ## Home 
 
 <img align="center" src="https://github.com/goodGid/Amorefati/tree/master/public_resource/home_1.png" />

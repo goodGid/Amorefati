@@ -14,7 +14,7 @@
 
 <center><img src="https://github.com/goodGid/Amorefati/blob/master/public_resource/check_skin_type.png" /></center>
 
-* 회원의 피부를 촬영하여 `퍼스널 컬러`를 
+* 회원의 피부를 촬영하여 `퍼스널 컬러`를 체크
 
 ---
 
@@ -40,6 +40,6 @@
 
 <center><img src="https://github.com/goodGid/Amorefati/blob/master/public_resource/signup.png" /></center>
 
-* 회원관리를 위한 기본적인 Info.
+* 회원관리를 위한 기본적인 Info.를 입력받음 
 
 

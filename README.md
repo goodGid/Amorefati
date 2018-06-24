@@ -1,10 +1,15 @@
-# Amorefati 
+# A MORE BEAUTY X 핵캠 : Amorefati
 
 * Develop Period : 2018. 06. 22 ~ 06. 24
 
 * Role : BackEnd
+    - Node & Express Framework
     - MAC 홈페이지 립스틱 제품들 `Crawling` 작업 수행
     - 서버 구축 및 배포
+    
+* [A MORE BEAUTY X 핵캠](http://www.jccei.kr/event/all.htm?act=view&seq=226) 공식 사이트
+
+* [Time Table & Info.](https://goodgid.github.io/Jeju-Hackathon/)
 
 ---
 

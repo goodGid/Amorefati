@@ -11,22 +11,22 @@
 
 ## Home 
 
-<img align="center" src="https://github.com/goodGid/Amorefati/blob/master/public_resource/home.png" />
+<center><img src="https://github.com/goodGid/Amorefati/blob/master/public_resource/home.png" /></center>
 
 
 
 
 ## Login
 
-<img align="center" src="https://github.com/goodGid/Amorefati/blob/master/public_resource/login.png" />
+<center><img src="https://github.com/goodGid/Amorefati/blob/master/public_resource/login.png" /></center>
 
 
 ## Sign Up 
 
-<img align="center" src="https://github.com/goodGid/Amorefati/blob/master/public_resource/signup.png" />
+<center><img src="https://github.com/goodGid/Amorefati/blob/master/public_resource/signup.png" /></center>
 
 
 ## Check Skin Type
 
-<img align="center" src="https://github.com/goodGid/Amorefati/blob/master/public_resource/check_skin_type.png" />
+<center><img src="https://github.com/goodGid/Amorefati/blob/master/public_resource/check_skin_type.png" /></center>
 

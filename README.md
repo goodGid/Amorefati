@@ -13,26 +13,24 @@
 
 ## Home 
 
-<img align="center" src="https://github.com/goodGid/Amorefati/tree/master/public_resource/home_1.png" />
-<img align="center" src="https://github.com/goodGid/Amorefati/tree/master/public_resource/home_2.png" />
+<img align="center" src="https://github.com/goodGid/Amorefati/blob/master/public_resource/home_1.png" />
+<img align="center" src="https://github.com/goodGid/Amorefati/blob/master/public_resource/home_2.png" />
 
 
 
 
 ## Login
 
-<img align="center" src="https://github.com/goodGid/Amorefati/tree/master/public_resource/login.png" />
+<img align="center" src="https://github.com/goodGid/Amorefati/blob/master/public_resource/login.png" />
 
 
 ## Sign Up 
 
-<img align="center" src="https://github.com/goodGid/Amorefati/tree/master/public_resource/signup_1.png" />
-<img align="center" src="https://github.com/goodGid/Amorefati/tree/master/public_resource/signup_1.png" />
+<img align="center" src="https://github.com/goodGid/Amorefati/blob/master/public_resource/signup_1.png" />
+<img align="center" src="https://github.com/goodGid/Amorefati/blob/master/public_resource/signup_1.png" />
 
 
 ## Check Skin Type
 
-
-
-<img align="center" src="https://github.com/goodGid/Amorefati/tree/master/public_resource/check_skin_type_1.png" />
-<img align="center" src="https://github.com/goodGid/Amorefati/tree/master/public_resource/check_skin_type_2.png" />
+<img align="center" src="https://github.com/goodGid/Amorefati/blob/master/public_resource/check_skin_type_1.png" />
+<img align="center" src="https://github.com/goodGid/Amorefati/blob/master/public_resource/check_skin_type_2.png" />

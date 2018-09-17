@@ -19,6 +19,8 @@
 
 * [Time Table & Info.](https://goodgid.github.io/Jeju-Hackathon/)
 
+* [PPT](https://github.com/goodGid/Amorefati/blob/master/public_resource/yeonji.pdf)
+
 ---
 
 
